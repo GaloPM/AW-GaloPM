@@ -1,0 +1,71 @@
+h1 { 
+    color:#21EFCB
+}
+
+p strong { 
+    color:red
+}
+
+p span.destacado { 
+    color:orange
+}
+
+h2 { 
+    color:#1039EA
+}
+
+p  a    { 
+    color:red
+}
+
+p a em { 
+    color:blue
+}
+
+p span { 
+    color:purple
+}
+
+ table caption { 
+    color:blue
+}
+
+thead tr th { 
+    color:orange
+}
+
+tbody tr .especial{ 
+    color:orange
+}
+
+tbody tr th { 
+    color:red
+}
+
+tfoot tr > th { 
+    color:red
+}
+
+tbody tr td{ 
+    color:green
+}
+
+tbody tr strong{ 
+    color:orange 
+}
+
+div { 
+    color:yellowgreen
+}
+
+div p span {
+    color:yellowgreen
+}
+
+div p #especial {
+    color:#F0F
+}
+
+div p a {
+    color:green
+}
