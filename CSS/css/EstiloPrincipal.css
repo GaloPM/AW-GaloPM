@@ -1,0 +1,36 @@
+h1 {
+    color:#127eea
+}
+
+a:visited {
+      color:#00ffeb;
+}
+
+p:active {
+   color:white;
+}
+
+td:hover {
+      transform: scale(1.06);
+}
+
+table thead th {
+    color:white;
+    
+}
+
+table tbody th {
+    color:white;
+    
+}
+
+table caption {
+    color:white;
+    
+}
+
+
+table tbody tr td.rec {
+    color:white;
+    
+}
