@@ -6,6 +6,9 @@ a:visited {
       color:#00ffeb;
 }
 
+a:link {
+      color:white;
+}
 div iframe {
     position:fixed; top 10px; left:10px; width: 400px; height: 400px;
 }
