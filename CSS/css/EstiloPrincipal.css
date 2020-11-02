@@ -6,7 +6,7 @@ a:visited {
       color:#00ffeb;
 }
 
-p:active {
+a{
    color:white;
 }
 
