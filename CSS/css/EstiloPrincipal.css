@@ -6,6 +6,9 @@ a:visited {
       color:#00ffeb;
 }
 
+div iframe {
+    position:fixed; top 10px; left:10px; width: 400px; height: 400px;
+}
 
 td:hover {
       transform: scale(1.06);
